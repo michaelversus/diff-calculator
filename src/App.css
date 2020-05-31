@@ -24,6 +24,15 @@
   color: white;
 }
 
+input[type=submit] {
+  width: 20em;  
+  height: 20em;
+}
+
+ul {
+  list-style-type: none;
+}
+
 .App-link {
   color: #61dafb;
 }
